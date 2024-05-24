@@ -1,4 +1,4 @@
-# RappidRoll_game-in_C
+# Rappid Roll Game in C
 Rappid roll game in C programming using C Graphics programming....
 <h3>Output:</h3>
 <h5> Game menu:</h5>
